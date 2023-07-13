@@ -1,3 +1,9 @@
+## What is this repo?
+First look at the Redux Toolkit.
+
+Following the Redux Essentials tutorial on the redux.js.org site:
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
